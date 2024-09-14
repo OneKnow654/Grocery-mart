@@ -1,0 +1,5 @@
+c:\users\yash\onedrive\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\yash\onedrive\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\yash\onedrive\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\payment.csprojResolveAssemblyReference.cache
+c:\users\yash\onedrive\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\yash\onedrive\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb

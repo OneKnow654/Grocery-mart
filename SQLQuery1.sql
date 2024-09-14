@@ -1,0 +1,1 @@
+﻿SELECT user_id, fname FROM Register WHERE email='demo@gmail.com' AND password='123';
